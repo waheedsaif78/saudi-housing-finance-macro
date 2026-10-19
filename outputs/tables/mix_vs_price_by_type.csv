@@ -1,0 +1,10 @@
+type,lag_q,corr_fin_growth_vs_price_growth,corr_share_change_vs_price_growth,n
+villa,0,0.061,0.303,18
+villa,1,0.167,0.219,17
+villa,2,0.192,0.187,16
+apartment,0,0.192,0.57,18
+apartment,1,0.15,0.412,17
+apartment,2,-0.003,0.152,16
+land,0,-0.741,-0.871,18
+land,1,-0.569,-0.753,17
+land,2,-0.542,-0.646,16

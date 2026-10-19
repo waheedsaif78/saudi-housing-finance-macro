@@ -1,0 +1,25 @@
+model,h,RMSE,MAE,n,target
+"ARIMAX(1,1,0)+SAIBOR",1,15.73,10.26,14,real mortgage value (SA)
+"ARIMAX(1,1,0)+SAIBOR",2,24.47,16.04,13,real mortgage value (SA)
+"ARIMAX(1,1,0)+SAIBOR",3,29.55,20.58,12,real mortgage value (SA)
+"ARIMAX(1,1,0)+SAIBOR",4,34.31,23.51,11,real mortgage value (SA)
+ETS (damped),1,16.88,10.99,14,real mortgage value (SA)
+ETS (damped),2,27.09,18.24,13,real mortgage value (SA)
+ETS (damped),3,34.28,24.73,12,real mortgage value (SA)
+ETS (damped),4,41.82,30.85,11,real mortgage value (SA)
+Naive,1,15.37,11.04,14,real mortgage value (SA)
+Naive,2,22.82,16.93,13,real mortgage value (SA)
+Naive,3,27.0,20.16,12,real mortgage value (SA)
+Naive,4,30.64,22.55,11,real mortgage value (SA)
+"ARIMAX(1,1,0)+SAIBOR",1,2.1,1.7,9,RPI residential
+"ARIMAX(1,1,0)+SAIBOR",2,3.36,2.78,8,RPI residential
+"ARIMAX(1,1,0)+SAIBOR",3,4.12,3.38,7,RPI residential
+"ARIMAX(1,1,0)+SAIBOR",4,5.08,4.39,6,RPI residential
+ETS (damped),1,1.95,1.57,9,RPI residential
+ETS (damped),2,2.65,2.24,8,RPI residential
+ETS (damped),3,3.17,2.88,7,RPI residential
+ETS (damped),4,3.69,3.15,6,RPI residential
+Naive,1,1.82,1.47,9,RPI residential
+Naive,2,2.45,2.05,8,RPI residential
+Naive,3,2.79,2.45,7,RPI residential
+Naive,4,2.92,2.47,6,RPI residential

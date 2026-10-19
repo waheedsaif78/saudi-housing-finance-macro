@@ -1,0 +1,23 @@
+cause,effect,lag,F,p,n,sample
+dm_value,dp_residential,1,0.39,0.542,21,quarterly 2021Q1-2026Q2
+dm_value,dp_residential,2,2.24,0.143,21,quarterly 2021Q1-2026Q2
+dp_residential,dm_value,1,1.26,0.278,21,quarterly 2021Q1-2026Q2
+dp_residential,dm_value,2,0.42,0.662,21,quarterly 2021Q1-2026Q2
+dm_contracts,dp_residential,1,0.46,0.509,21,quarterly 2021Q1-2026Q2
+dm_contracts,dp_residential,2,2.32,0.134,21,quarterly 2021Q1-2026Q2
+dp_residential,dm_contracts,1,2.03,0.172,21,quarterly 2021Q1-2026Q2
+dp_residential,dm_contracts,2,0.67,0.529,21,quarterly 2021Q1-2026Q2
+dm_value,dp_general,1,0.12,0.735,21,quarterly 2021Q1-2026Q2
+dm_value,dp_general,2,0.18,0.834,21,quarterly 2021Q1-2026Q2
+ds,dm,1,1.91,0.169,127,monthly 2016-2026
+ds,dm,2,1.97,0.144,127,monthly 2016-2026
+ds,dm,3,1.46,0.228,127,monthly 2016-2026
+ds,dm,4,1.21,0.31,127,monthly 2016-2026
+ds,dm,5,1.02,0.407,127,monthly 2016-2026
+ds,dm,6,0.79,0.58,127,monthly 2016-2026
+ds,dm,1,2.93,0.092,68,monthly 2021-2026
+ds,dm,2,1.97,0.148,68,monthly 2021-2026
+ds,dm,3,2.09,0.111,68,monthly 2021-2026
+ds,dm,4,1.7,0.164,68,monthly 2021-2026
+ds,dm,5,1.84,0.121,68,monthly 2021-2026
+ds,dm,6,1.55,0.181,68,monthly 2021-2026

@@ -1,0 +1,6 @@
+type,old_method_pct,new_method_pct,corr_qoq
+general,5.55,25.1,0.53
+residential,4.92,25.19,0.14
+res_plot,3.68,25.47,-0.18
+villa,-0.78,31.81,0.76
+apartment,4.77,22.15,0.27

@@ -1,0 +1,28 @@
+lag,corr,n,band95,pair
+-4,-0.499,17,0.475,real mortgage value -> RPI residential
+-3,-0.157,18,0.462,real mortgage value -> RPI residential
+-2,-0.069,19,0.45,real mortgage value -> RPI residential
+-1,-0.251,20,0.438,real mortgage value -> RPI residential
+0,0.221,21,0.428,real mortgage value -> RPI residential
+1,0.207,20,0.438,real mortgage value -> RPI residential
+2,-0.259,19,0.45,real mortgage value -> RPI residential
+3,-0.071,18,0.462,real mortgage value -> RPI residential
+4,-0.217,17,0.475,real mortgage value -> RPI residential
+-4,-0.544,17,0.475,mortgage contracts -> RPI residential
+-3,-0.216,18,0.462,mortgage contracts -> RPI residential
+-2,-0.156,19,0.45,mortgage contracts -> RPI residential
+-1,-0.313,20,0.438,mortgage contracts -> RPI residential
+0,0.177,21,0.428,mortgage contracts -> RPI residential
+1,0.193,20,0.438,mortgage contracts -> RPI residential
+2,-0.261,19,0.45,mortgage contracts -> RPI residential
+3,-0.11,18,0.462,mortgage contracts -> RPI residential
+4,-0.218,17,0.475,mortgage contracts -> RPI residential
+-4,-0.426,17,0.475,real mortgage value -> RPI general
+-3,-0.173,18,0.462,real mortgage value -> RPI general
+-2,-0.2,19,0.45,real mortgage value -> RPI general
+-1,-0.171,20,0.438,real mortgage value -> RPI general
+0,0.298,21,0.428,real mortgage value -> RPI general
+1,0.036,20,0.438,real mortgage value -> RPI general
+2,-0.088,19,0.45,real mortgage value -> RPI general
+3,-0.074,18,0.462,real mortgage value -> RPI general
+4,-0.244,17,0.475,real mortgage value -> RPI general

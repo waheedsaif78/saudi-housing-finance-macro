@@ -1,0 +1,8 @@
+dep,var,coef,p,n,r2
+dp_residential,dm_value_l1,0.001,0.948,20,0.271
+dp_residential,d_saibor,0.11,0.895,20,0.271
+dp_residential,d_land_reform_2025q2,-3.372,0.001,20,0.271
+dp_residential,d_rent_freeze_2025q4,3.108,0.002,20,0.271
+dm_value,d_saibor,-9.112,0.153,21,0.179
+dm_value,d_land_reform_2025q2,-16.723,0.002,21,0.179
+dm_value,d_rent_freeze_2025q4,12.456,0.047,21,0.179

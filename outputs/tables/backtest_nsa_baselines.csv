@@ -1,0 +1,4 @@
+model,1,2,3,4
+SA-Naive re-seasonalised,17.4,22.2,26.2,32.2
+Seasonal naive (same q last year),36.8,35.8,32.6,30.7
+Seasonal naive + last YoY,24.1,36.9,44.5,54.1

@@ -1,0 +1,14 @@
+series,n,adf_p,kpss_p,verdict
+log RPI general (Q),22,0.005,0.012,inconclusive
+log RPI residential (Q),22,0.002,0.019,inconclusive
+log real mortgage SA (Q),22,0.506,0.017,non-stationary
+SAIBOR 3M (Q),22,0.003,0.032,inconclusive
+dp_general,21,0.091,0.035,inconclusive
+dp_residential,21,0.117,0.047,non-stationary
+dm_value,21,0.002,0.1,stationary
+dm_contracts,21,0.004,0.1,stationary
+d_saibor,21,0.577,0.045,non-stationary
+"log real mortgage SA (M, 2016-26)",128,0.45,0.01,non-stationary
+"SAIBOR 3M (M, 2016-26)",128,0.682,0.01,non-stationary
+dlog real mortgage SA (M),127,0.0,0.1,stationary
+d SAIBOR (M),127,0.0,0.1,stationary

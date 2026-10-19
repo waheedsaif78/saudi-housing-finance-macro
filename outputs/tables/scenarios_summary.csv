@@ -1,0 +1,4 @@
+scenario,4Q total SAR mn (high_sens),4Q total SAR mn (central),4Q total SAR mn (low_sens),central vs last 4Q actual %,central vs flat %
+Flat (base),76008.1,76008.1,76008.1,11.1,0.0
+-50bp,80625.0,78224.2,78689.9,14.4,2.9
++50bp,71731.7,73873.6,73444.9,8.0,-2.8
