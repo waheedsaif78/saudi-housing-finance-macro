@@ -1,0 +1,16 @@
+[project]
+name = "saudi-housing-finance-macro"
+version = "1.0.0"
+description = "Saudi real-estate prices vs residential mortgage finance and interest rates (GASTAT, SAMA)"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 150
+extend-exclude = ["src/dpu"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "B", "I"]
+ignore = ["E402"]  # scripts add src/ to sys.path before importing
